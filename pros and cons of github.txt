@@ -1,0 +1,10 @@
+Pros Github
+1.I was very impressed on how much softwares you can download for this. They are very useful everywhere.
+2.One of the best things I personally love about it is CI/CD. I will definitely encourage you to use it regardless of how you are working - as a team or an individual.
+3.Their search is fast and easy to find open source projects that are well coded. The Github actions for free is nice to have and all the extras you get for free are amazing
+
+
+Cons Github
+1.The only downside I found in git was that it had two levels of dependency support, the first two of which were very strict and the third one was very vague: most people are unaware of it
+2.Github downtime is always a pain to developers. A bad merge is very difficult to revert.
+3.It can be somewhat overwhelming and intimidating when you start using it. It appears much more difficult than it actually is.
